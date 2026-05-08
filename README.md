@@ -1,1 +1,1 @@
-# ecommerce-qa-testing-project
+# QA Testing: E-commerce Platform Automation Exercise
